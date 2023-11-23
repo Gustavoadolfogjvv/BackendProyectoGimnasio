@@ -1,0 +1,23 @@
+{
+  "name": "backendproyectogimnasio",
+  "version": "1.0.0",
+  "description": "REST API para un gimnasio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavoadolfogjvv/BackendProyectoGimnasio.git"
+  },
+  "keywords": [
+    "REST",
+    "API"
+  ],
+  "author": "Grupo dos 02 Aybar Villoldo Tolosa Torregrosa Castro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavoadolfogjvv/BackendProyectoGimnasio/issues"
+  },
+  "homepage": "https://github.com/Gustavoadolfogjvv/BackendProyectoGimnasio#readme"
+}
